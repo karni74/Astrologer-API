@@ -3,3 +3,4 @@ uvicorn
 swisseph
 pydantic
 kerykeion
+pydantic_settings
